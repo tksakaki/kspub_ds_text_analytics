@@ -13,8 +13,11 @@
 
 ## 活用方法
 
-1.   書籍の第3章 環境構築を参照しながら、OSのセットアップ([Chapter03/setup_OS.md](Chapter03/setup_OS.md) )、Pythonのインストール([Chapter03/setup_Python.md](Chapter03/setup_Python.md) )、MeCabのインストール([Chapter03/setup_MeCab.md](Chapter03/setup_MeCab.md) )、を行って下さい。
-     *   書籍ではMeCabのインストールは9章で紹介されていますが，GiNZAでは不向きな処理のために随所でMeCabを利用しているため、最初にインストールするようにしてください．
+1.   書籍の第3章 環境構築を参照しながら、下記を実行してください。
+     *   OSのセットアップ([Chapter03/setup_OS.md](Chapter03/setup_OS.md) )、
+     *   Pythonのインストール([Chapter03/setup_Python.md](Chapter03/setup_Python.md) )
+     *   MeCabのインストール([Chapter03/setup_MeCab.md](Chapter03/setup_MeCab.md) )
+         *   書籍ではMeCabのインストールは9章で紹介されていますが，GiNZAでは不向きな処理のために随所でMeCabを利用しているため、最初にインストールするようにしてください．
 
 2.   Jupyter Notebookが実行可能な環境をセットアップしてください。下記は書籍に準拠した場合のセットアップ方法です。
 
@@ -43,7 +46,7 @@ $ pip install -r requirements.txt
 
 ## 注意点
 
-*   書籍に記載されている結果は、可能な限り多くの環境で同一の結果が出るように努めていますが、OS/Linuxパッケージ/Pythonパッケージの組み合わせにより、一致しないことは十分に起き得ます。多少の相違は無視するようにお願いします
+*   書籍に記載されている結果は、可能な限り多くの環境で同一の結果が出るように努めていますが、OS/Linuxパッケージ/Pythonパッケージの組み合わせにより、一致しないことは十分に起き得ます。多少の相違はご容赦下さい。
 
     *   極力合わせたい方は、下記のようのPythonパッケージを最初にインストールすることをおすすめします
 
