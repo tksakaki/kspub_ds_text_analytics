@@ -1,5 +1,5 @@
 # 実践Data Scienceシリーズ Pythonではじめるテキストアナリティクス入門
-## 　概要
+## 概要
 
 *   このリポジトリは、[講談社サイエンティフィク 実践Data Scienceシリーズ](https://www.kspub.co.jp/book/series/S069.html)の[Pythonではじめるテキストアナリティクス入門](https://www.kspub.co.jp/book/detail/5274101.html) で使用しているコードをまとめたリポジトリです。
 
