@@ -1,6 +1,4 @@
 # 実践Data Scienceシリーズ Pythonではじめるテキストアナリティクス入門
-
-
 ## 　概要
 
 *   このリポジトリは、[講談社サイエンティフィク 実践Data Scienceシリーズ](https://www.kspub.co.jp/book/series/S069.html)の[Pythonではじめるテキストアナリティクス入門](https://www.kspub.co.jp/book/detail/5274101.html) で使用しているコードをまとめたリポジトリです。
@@ -14,7 +12,7 @@
 ## 活用方法
 
 1.   書籍の第3章 環境構築を参照しながら、下記を実行してください。
-     *   OSのセットアップ([Chapter03/setup_OS.md](Chapter03/setup_OS.md) )、
+     *   OSのセットアップ([Chapter03/setup_OS.md](Chapter03/setup_OS.md) )
      *   Pythonのインストール([Chapter03/setup_Python.md](Chapter03/setup_Python.md) )
      *   MeCabのインストール([Chapter03/setup_MeCab.md](Chapter03/setup_MeCab.md) )
          *   書籍ではMeCabのインストールは9章で紹介されていますが，GiNZAでは不向きな処理のために随所でMeCabを利用しているため、最初にインストールするようにしてください．
