@@ -2,13 +2,13 @@
 
 *   各セクションは以下のマークダウンに対応しています．
 
-| ページ | セクション           | マークダウン                                         |
-| ------ | -------------------- | ---------------------------------------------------- |
-| p.50   | 3.1 Linux            | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md) |
-| p.50   | 3.2 macOS            | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md) |
-| p.52   | 3.3 Windows          | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md) |
-| p.56   | 3.4 Pythonの仮想環境 | [3.4_setup_pyenv.md](./3.4_setup_pyenv.md)           |
-| p.200  | 9.2.2 MeCab※         | [9.2.2_setupMeCab.md](./9.2.2_setupMeCab.md)         |
+| ページ | セクション           | マークダウン                                                 |
+| ------ | -------------------- | ------------------------------------------------------------ |
+| p.50   | 3.1 Linux            | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md#linux)   |
+| p.50   | 3.2 macOS            | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md#macos)   |
+| p.52   | 3.3 Windows          | [3.1-3.3_setup_python.md](./3.1-3.3_setup_python.md#windows) |
+| p.56   | 3.4 Pythonの仮想環境 | [3.4_setup_pyenv.md](./3.4_setup_pyenv.md)                   |
+| p.200  | 9.2.2 MeCab※         | [9.2.2_setupMeCab.md](./9.2.2_setupMeCab.md)                 |
 
 
 
