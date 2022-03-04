@@ -16,9 +16,9 @@
 | [6.2.6_count_food2.ipynb](./6.2.6_count_food2.ipynb) | 6.2.6 分析：宮島の食に関する分析 | p.122 | 6.10 count_food2.py |
 | [6.2.7_ext_advice.ipynb](./6.2.7_ext_advice.ipynb) | 6.2.7 分析：宮島の注意点の分析 | p.125 | 6.11 ext_advice.py |
 | [6.3.4_count_review.ipynb](./6.3.4_count_review.ipynb) | 6.3.4 基礎的な解析：口コミ件数と入場者数の年度別の推移 | p.128 | 6.12 count_review.py |
-| [6.3.5_analyze_cooccurrency_tdl.ipynb](./ 6.3.5_analyze_cooccurrency_tdl.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
-| [6.3.5_analyze_cooccurrency_tds.ipynb](./ 6.3.5_analyze_cooccurrency_usj.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
-| [6.3.5_analyze_cooccurrency_tdl.ipynb](./ 6.3.5_analyze_cooccurrency_usj.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
+| [6.3.5_analyze_cooccurrency_tdl.ipynb](./6.3.5_analyze_cooccurrency_tdl.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
+| [6.3.5_analyze_cooccurrency_tds.ipynb](./6.3.5_analyze_cooccurrency_usj.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
+| [6.3.5_analyze_cooccurrency_tdl.ipynb](./6.3.5_analyze_cooccurrency_usj.ipynb) | 6.3.5 テーマパークの共起ネットワークの分析                   | p.130-131 | 6.13 analyze cooccurrency themepark.py |
 | [6.3.6_rate_increase.ipynb](./6.3.6_rate_increase.ipynb)     | 6.3.6 ユニバーサル・スタジオ・ジャパンの入場者数増加の要因の分析 | p.134-135 | 6.14 rate_increase.py                  |
 | [6.3.6_count_word_usj.ipynb](./6.3.6_count_word_usj.ipynb)   | 6.3.6 ユニバーサル・スタジオ・ジャパンの入場者数増加の要因の分析 | p.136-137 | 6.15 count_word_usj.py                 |
 
