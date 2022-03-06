@@ -13,7 +13,7 @@
 
 1.   書籍の第3章 環境構築を参照しながら、下記を実行してください。
      *   Pythonのインストール([Chapter03/setup_python.md](Chapter03/setup_python.md) )
-     *   Python仮想環境の構築([Chapter03/setup_pyenv.md](Chapter03/setup_pyenv.md)
+     *   Python仮想環境の構築([Chapter03/setup_pyenv.md](Chapter03/setup_pyenv.md))
      *   MeCabのインストール([Chapter03/setup_MeCab.md](Chapter03/setup_MeCab.md) )
          *   書籍ではMeCabのインストールは9章で紹介されていますが，GiNZAでは不向きな処理のために随所でMeCabを利用しているため、最初にインストールするようにしてください．
 2.   Jupyter Notebookが実行可能な環境をセットアップしてください。下記は書籍に準拠した場合のセットアップ方法です。
