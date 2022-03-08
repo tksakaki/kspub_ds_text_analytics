@@ -12,8 +12,8 @@ $ sudo apt install build-essential git
 $ xcode-select --install
 
 # Homebrewのインストール
-$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/
-install.sh)"
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 
 # 必要パッケージのインストール
 $ brew install coreutils
