@@ -59,3 +59,6 @@ $ pip install -r requirements.txt
     *   本書籍の最新の正誤表を掲載しています
 *   [よくあるトラブルについて](Others/Troubleshooting.md)
     *   環境構築やサンプルプログラム利用時でよくあるトラブルについてまとめています
+*   [SudachiPyのバージョン0.5.xと0.6.xについて](Others/SudachiPy.md)
+    *   **本書のコードはSudachiPy 0.5.xで動作させることを想定しています**
+    *   SudachiPyの0.6.xは0.5.xと比較して分析速度が30倍です
