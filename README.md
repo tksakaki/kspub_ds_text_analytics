@@ -1,9 +1,11 @@
-# 実践Data Scienceシリーズ Pythonではじめるテキストアナリティクス入門
+# Pythonではじめるテキストアナリティクス入門：サポートページ
 ## 概要
 
 *   このリポジトリは、[講談社サイエンティフィク 実践Data Scienceシリーズ](https://www.kspub.co.jp/book/series/S069.html)の[Pythonではじめるテキストアナリティクス入門](https://www.kspub.co.jp/book/detail/5274101.html) で使用しているコードをまとめたリポジトリです。
 *   書籍内の4章、6〜8章、9章〜11章で使用したプログラムを，Jupyter Notebook形式でまとめなおして公開しています．書籍を読みながら，インタラクティブに実行して頂くことを想定しています．
 *   書籍の補助教材としてご活用下さい。
+
+![書影](./Others/TextAnalytics_hyo1_RGB.jpg) 
 
 
 
