@@ -28,10 +28,12 @@
 
 ```
 pyenv local 3.9.5
-pip install jupterlab
+pip install jupyterlab
 ```
 
-3.   本リポジトリをダウンロードし、Jupter Notebookが実行可能な環境を立ち上げて下さい。
+3.   本リポジトリをダウンロードし、Jupyter Notebookが実行可能な環境を立ち上げて下さい。
+      *   jupyter-lab以外にJupyter-notebookやVisual Studio Codeなどでも利用可能
+です
      *   jupyter-lab以外にJupyter-notebookやVisual Studio Codeなどでも利用可能です
 
 ```
