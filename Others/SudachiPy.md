@@ -9,19 +9,19 @@
   * ただし，使用するためにはRustのインストールが必要です
   * 正式には0.6.x以降はsudachi.rs[https://github.com/WorksApplications/sudachi.rs]と呼ばれます（以下，sudachi.rs）と呼びます）
 
-本書では，執筆当時の最新バージョンであったSudachiPy 0.5.xを使用しています．sudachi.rsでは動作しないコードが含まれています．そのため，プログラムコードを正常動作させたい方には，SudachiPy 0.5.xを推奨しています．
+本書では，執筆当時の最新バージョンであったSudachiPy 0.5.xを使用しています．sudachi.rsでは動作しないプログラムが含まれています．そのため，プログラムを正常動作させたい方には，SudachiPy 0.5.xを推奨しています．
 
-他方，分析速度という点ではsudachi.rsが優れています．7章や8章では分析に時間がかかるプログラムコードもあることから，分析速度を優先する方にはsudachi.rsをおすすめします．ただし，プログラムコードが正しく動作しないことがあるため，その場合は，ご自身でエラーメッセージを見ながらプログラムコードを修正してください．
+他方，分析速度という点ではsudachi.rsが優れています．7章や8章では分析に時間がかかるプログラムもあることから，分析速度を優先する方にはsudachi.rsをおすすめします．ただし，プログラムが正しく動作しないことがあるため，その場合は，ご自身でエラーメッセージを見ながらプログラムを修正してください．
 
 
 
 ### sudachi.rsを使用するために
 
-#### Rustのインストール
+#### rustのインストール
 
 以下2つのインストール方法があります
 
-* [Rustupの利用](https://www.rust-lang.org/ja/tools/install)（WSL/Linux/MacOS）
+* [rustupの利用](https://www.rust-lang.org/ja/tools/install)（WSL/Linux/MacOS）
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
