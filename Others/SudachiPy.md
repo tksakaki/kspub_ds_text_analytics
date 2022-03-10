@@ -7,7 +7,7 @@
 * SudachiPy 0.6.x以降は，Rustで実装されています
   * 0.5.x以前と比べ，分析速度が飛躍的に向上しています（30倍程度高速化したとされています）
   * ただし，使用するためにはRustのインストールが必要です
-  * 正式には0.6.x以降はsudachi.rs[https://github.com/WorksApplications/sudachi.rs]と呼ばれます（以下，sudachi.rs）と呼びます）
+  * 正式には0.6.x以降は[sudachi.rs](https://github.com/WorksApplications/sudachi.rs)と呼ばれます（以下，sudachi.rs）と呼びます）
 
 本書では，執筆当時の最新バージョンであったSudachiPy 0.5.xを使用しています．sudachi.rsでは動作しないプログラムが含まれています．そのため，プログラムを正常動作させたい方には，SudachiPy 0.5.xを推奨しています．
 
