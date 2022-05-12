@@ -30,7 +30,7 @@ $ brew link coreutils
 
 ```## PowerShell（管理者）
 Windows PowerShell（管理者）
-> wsl ―install
+> wsl --install
 ```
 
 #### Windows10 バージョン2004 以前
