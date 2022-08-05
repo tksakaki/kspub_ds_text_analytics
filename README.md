@@ -61,6 +61,13 @@ $ pip install -r requirements.txt
             $ pip install -r requirements.txt
             ```
 
+*   Google Colab環境では、GiNZAをインストールした後にパッケージ情報のリロード（再読込）が必要な場合があります。GiNZAの実行に失敗する場合、下記のようにパッケージ情報をリロードしてください。（参考：[GiNZA 開発者向けの情報](https://megagonlabs.github.io/ginza/developer_reference.html#%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)）
+
+    *   ```
+        import pkg_resources, imp
+        imp.reload(pkg_resources)
+        ```
+
 *   第2部 6、8章のコードには、ご自身でデータを収集しないと動かないコードが含まれています。お手数をおかけしますが、幅広く読まれる書籍という性質上、ご理解頂けると幸いです（8章については、ご自身で簡単にデータを収集するコードが含まれています）。
 
 ## その他
