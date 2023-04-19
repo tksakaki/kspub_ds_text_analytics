@@ -5,9 +5,6 @@
 *   書籍内の4章、6〜8章、9章〜11章で使用したプログラムを，Jupyter Notebook形式でまとめなおして公開しています．書籍を読みながら，インタラクティブに実行して頂くことを想定しています．
 *   書籍の補助教材としてご活用下さい。
 
-![書影](./Others/TextAnalytics_hyo1_RGB.jpg) 
-
-
 **これはversion5ブランチです．**
 
 | branch名      | 内容                                                         |
@@ -17,6 +14,7 @@
 |version5| 書籍のプログラムをGiNZA v5(5.1.0) で動作するように修正を加えたもの|
 
 
+![書影](./Others/TextAnalytics_hyo1_RGB.jpg) 
 
 ## 活用方法
 
