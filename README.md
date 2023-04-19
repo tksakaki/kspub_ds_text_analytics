@@ -14,6 +14,8 @@
 | ------------- | ------------------------------------------------------------ |
 | main          | プログラムの出力結果は書籍と同一だが，一部プログラムの書き方や説明に修正を加えたもの |
 | original_book | 書籍と同一のプログラム．                                     |
+|version5| 書籍のプログラムをGiNZA v5(5.1.0) で動作するように修正を加えたもの|
+
 
 
 
@@ -33,7 +35,7 @@ pip install jupyterlab
 
 3.   本リポジトリをダウンロードし、Jupyter Notebookが実行可能な環境を立ち上げて下さい。
       *   jupyter-lab以外にJupyter-notebookやVisual Studio Codeなどでも利用可能
-です
+     です
      *   jupyter-lab以外にJupyter-notebookやVisual Studio Codeなどでも利用可能です
 
 ```
